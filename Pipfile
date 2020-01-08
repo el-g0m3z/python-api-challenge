@@ -12,6 +12,7 @@ matplotlib = "*"
 numpy = "*"
 requests = "*"
 jinja2 = "*"
+citipy = "*"
 
 [requires]
 python_version = "3.8"
